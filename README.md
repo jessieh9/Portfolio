@@ -1,5 +1,5 @@
 # Portfolio
 My portfolio using ReactJS, HTML, and CSS
 
-#Time Period
+Time Period
 10 days
