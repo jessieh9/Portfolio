@@ -28,6 +28,6 @@ const jess = {
 }
 ```
 
-<img src="https://line.me/S/sticker/14347506" width="60"> <em><b>I love meeting different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
+<img src="https://giphy.com/embed/bVcpc4QFNUxkOfCw0E" width="60"> <em><b>I love meeting different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
 
 ---
