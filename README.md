@@ -19,11 +19,12 @@ const jess = {
   tools: [React, Express, Node, Firebase, Styled-Components, MongoDB, Postman],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        company: "Society of Women Coders",
+                        title: "Global Ambassador",
+                        duration: "2 yrs 4 mos"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
+ challenge: "I am currently doing Leetcode problems and diving into Mobile Development."
 }
 ```
 
