@@ -1,8 +1,10 @@
 # Portfolio
 
-<h2> Hi, I'm Jessie He! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media0.giphy.com/media/kZqbBT64ECtjy/giphy.gif)" width="50"></h2>
+<h2> Hi, I'm Jessie He! <img src="https://media0.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>a self-taught Full Stack Developer at <a href="http://www.unb.br">University of California, Irvine</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>a self-taught Full Stack Developer at <a href="https://www.ics.uci.edu/">University of California, Irvine</a><img src="https://media3.giphy.com/media/1oBwBVLGoLteCP2kyD/200w.gif?cid=6c09b9522bupiv3376yot6rwqpa7z4e9jxfpynnq4t57a1xf&ep=v1_gifs_search&rid=200w.gif&ct=g" width="30">
+<!--   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
+</br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
