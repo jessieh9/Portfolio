@@ -1,11 +1,4 @@
 # Portfolio
----
-title: Jessie
-date: '2023-09-09'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'jessieh9'
----
 
 <h2> Hi, I'm Jessie He! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
