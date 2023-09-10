@@ -2,7 +2,8 @@
 
 <h2> Hi, I'm Jessie He! <img src="https://media0.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Computer Science at <a href="https://www.ics.uci.edu/">University of California, Irvine</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Computer Science at <a href="https://www.ics.uci.edu/">University of California, Irvine</a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fstudy-cute&psig=AOvVaw2yJokKB_KtIAPYVXZB13AC&ust=1694401246565000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDUkNWGn4EDFQAAAAAdAAAAABAI" width = "40" >
+<!--   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> -->
 </br>Full Stack SWE</p>
 
 [![Linkedin: jessiehe](https://img.shields.io/badge/-jessiehe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejessie/)](https://www.linkedin.com/in/hejessie/)
