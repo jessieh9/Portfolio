@@ -16,7 +16,7 @@ const jess = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, C++, Python, HTML/CSS, SQL],
   tools: [React, Express, Node, Firebase, Styled-Components, MongoDB, Postman],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "event-driven", "design", "custom software"],
   techCommunities: {
                         company: "Society of Women Coders",
                         title: "Global Ambassador",
