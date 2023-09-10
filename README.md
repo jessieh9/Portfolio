@@ -28,6 +28,6 @@ const jess = {
 }
 ```
 
-<img src="https://giphy.com/embed/bVcpc4QFNUxkOfCw0E" width="60"> <em><b>I love meeting different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
+<img src="https://giphy.com/gifs/rainpomelo-littlehuman-wihte-bVcpc4QFNUxkOfCw0E" width="60"> <em><b>I love meeting different people</b> so if you want to say <b>hi, I'll be happy to connect!</b> :)</em>
 
 ---
