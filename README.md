@@ -5,8 +5,8 @@
 <p><em>Computer Science at <a href="https://www.ics.uci.edu/">University of California, Irvine</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>Full Stack SWE</p>
 
-[![Linkedin: jessiehe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/hejessie/))
-[![GitHub jessieh9](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/jessieh9)
+[![Linkedin: jessiehe](https://img.shields.io/badge/-jessiehe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hejessie/)](https://www.linkedin.com/in/hejessie/)
+[![GitHub jessieh9](https://img.shields.io/github/followers/jessiehe?label=follow&style=social)](https://github.com/jessieh9)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
