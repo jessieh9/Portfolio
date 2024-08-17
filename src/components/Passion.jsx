@@ -14,26 +14,27 @@ export default function Passion() {
                             <h3>Design & Development</h3>
                             <p>With a strong foundation in computer science, I'm passionate about web design and development, and
                                 interested in mobile app development. I strive to create software that encompasses a positive user
-                                experience and efficient functionality of the system. I'm also learning about multiple backend
-                                development technologies including Express, NodeJS, Firebase, MongoDB, and more.
+                                experience and efficient functionality of the system. I'm also interested in learning and using
+                                different technologies; I recently had a chance to play with deployments and horizontal scaling
+                                using Docker and Kubernetes.
                             </p>
                         </Box>
                         <Box className="col-md-4 wp2 delay-025s animated fadeIn">
                             <div className="icon"><i className="fa fa-code"></i></div>
                             <h3>Involvement</h3>
-                            <p> To further my knowledge in my field, I have tutored Python as a Lab Tutor, been a Learning Assistant for
-                                a Data Structures class, and participated in multiple hackathons, two of which I had won with my team. I'm
-                                currently a global ambassador (Belize area) for the <a href="https://www.sowcoders.org/">Society of Women Coders </a> 
-                                and aspire to combat gender based digital inequality in low/middle income countries. 
-                                
+                            <p> To further my knowledge in my field, I have tutored Python, C++, and Data Structures to name some. I've also participated in 
+                                multiple hackathons, two of which I had won with my team. I'm currently a Technical Lead for <a href="https://ctc-uci.com/">Commit the Change </a> 
+                                and a Project Manager for <a href="https://github.com/ChrastilLab/Concord">Concord</a> and <a href="https://sqlrewriter.ics.uci.edu/">SqlRewriter</a> projects. I'm also
+                                doing research with SQL Optimizers and NLP Models.
                             </p>
                         </Box>
                         <Box className="col-md-4 wp2 delay-05s animated fadeIn">
                             <div className="icon"><i className="fa fa-lightbulb-o"></i></div>
                             <h3>Leadership</h3>
-                            <p> I have been involved in organizations which put emphasis on mentorship and building community. 
+                            <p> I'm currently a global ambassador for the <a href="https://www.sowcoders.org/">Society of Women Coders. </a>
+                                I've been involved in organizations with emphasis on mentorship and building community. 
                                 Because of these spaces, I have developed skills that allow me to consider others' perspectives and 
-                                create effective public speaking and communication. As as result, I enjoy participating in organizations 
+                                establish skills in public speaking and communication. As as result, I enjoy participating in organizations 
                                 that give back, including
                                 <a href="https://www.instagram.com/explore/locations/1021508751/camp-kesem-at-uc-irvine/?hl=en"> Kesem@UCI</a>,
                                 <a href="https://asuci.uci.edu/academicvp/amp/"> AMP</a>,

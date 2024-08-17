@@ -12,10 +12,10 @@ export default function About() {
                             <img src={profile} id="prof-pic" alt="profile" />
                             <p>
                                 Hi! My name is Jessie and I'm a self-taught web developer with a passion for front end development
-                                and data. I'm currently a third year student at <a href="https://uci.edu/"> University of California, Irvine </a>
-                                pursuing a degree in <a href="https://www.cs.uci.edu/">computer science</a> with a specialization in
-                                Information. I aspire to be in a career that will allow me to build my skills in both creating
-                                beautiful software as well as utilizing my knowledge in data structures and backend development.
+                                and data. I'm currently a senior at the <a href="https://uci.edu/">University of California, Irvine </a>
+                                pursuing a degree in <a href="https://www.cs.uci.edu/">Computer Science</a> with a specialization in
+                                Information. I aspire to be in a career that will allow me to develop my skills in creating and building
+                                software while giving back to my community and inspiring positive change with technology.
                                 <br />
                                 <br /> When I'm not on the computer, I enjoy being a skincare junkie, playing the guitar, and basketball.
                             </p>

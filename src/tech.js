@@ -17,6 +17,10 @@ const tech = [
         image:"js.png",
     },
     {
+      name:"java",
+      image:"java.png"
+    },
+    {
         name:"express",
         image:"express.png",
     },
@@ -53,6 +57,10 @@ const tech = [
         image:"mongodb.png",
     },
     {
+        name: "PostgreSQL",
+        image: "postgres.png"
+    },
+    {
         name:"firebase",
         image:"firebase.png",
     },
@@ -67,7 +75,16 @@ const tech = [
     {
         name:"api",
         image:"api.png",
-    }
+    },
+    {
+        name:"docker",
+        image:"docker.png",
+    },
+    {
+        name:"kubernetes",
+        image:"kubernetes.png",
+    },
+    
 ]
 
 export default tech;

@@ -1,5 +1,23 @@
 const projects = [
     {
+      id: 22,
+      image: "sqlrewriter.png",
+      title: "SqlRewriter",
+      projType: "In progress",
+      description: <p>SqlRewriter is a web application that provides a service focused on the logic implemented in QueryBooster. It is stemmed from a research paper on database query optimization in SQL and targets rewriting queries for faster and more efficient processing. It is currently still in the works and I am actively a part of its development.</p>,
+      source: "https://github.com/ISG-ICS",
+      site: "https://sqlrewriter.ics.uci.edu/"
+    },
+    {
+      id: 23,
+      image: "lab.png",
+      title: "Concord",
+      projType: "In progress",
+      description: <p>Concord is a project that I manage and design for the UCI Spatial Neuroscience Lab. Its purpose is to provide a service as a lab management tool that allows staff, research assistants, and guest users to view, edit, and track their progress and research projects in their respective organizations.</p>,
+      source: "https://github.com/ChrastilLab/Concord",
+      site: ""
+    },
+    {
         id: 1,
         image: "antalert.jpeg",
         title: "AntAlert",
