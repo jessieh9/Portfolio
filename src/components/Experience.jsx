@@ -13,8 +13,8 @@ export default function Experience() {
                     <Box className="col-md-12">
                         <Box className="col-md-10 col-md-offset-1 text-center wp3 animated fadeIn">
                             <h2>Experience</h2>
-                            <p>I have been working with software development technologies for a little over 2 years now, and I am
-                                always eager to learn more.
+                            <p>I have been working with software development technologies for over 2 years now, and I am
+                                always eager to learn more. 
                             </p>
                         </Box>
 

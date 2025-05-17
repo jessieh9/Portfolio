@@ -75,32 +75,94 @@ export default function Navbar() {
     // console.log(currentPage);
 
     return (
-        <nav className={currentPage === "top" ? "navbar navbar-custom navbar-fixed-top " : "navbar navbar-custom navbar-fixed-top top-nav-collapse"} role="navigation">
-            <Box className="container">
-                <Box className="navbar-header page-scroll">
-                    {/* for when the screen is resized to small */}
-                    <button type="button" className="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                        <HamburgerIcon color={"white"} boxSize={8}/>
-                    </button>
-                    <a className="navbar-brand page-scroll" href="http://brittanychiang.com/">
-                        <img src={jessieLogo} alt="logo" />Jessie He</a>
-                </Box>
-                <Box className="collapse navbar-collapse navbar-main-collapse">
-                    <UnorderedList className="nav navbar-nav navbar-right">
-                        <ListItem className={currentPage === "top" ? "hidden active" : "hidden"}>
-                            <a className="page-scroll" href="#page-top"> </a>
-                        </ListItem>
-                        {/* {console.log(scrollAbout)}
+      <nav
+        className={
+          currentPage === "top"
+            ? "navbar navbar-custom navbar-fixed-top "
+            : "navbar navbar-custom navbar-fixed-top top-nav-collapse"
+        }
+        role="navigation"
+      >
+        <Box className="container">
+          <Box className="navbar-header page-scroll">
+            {/* for when the screen is resized to small */}
+            <button
+              type="button"
+              className="navbar-toggle"
+              data-toggle="collapse"
+              data-target=".navbar-main-collapse"
+            >
+              <HamburgerIcon color={"white"} boxSize={8} />
+            </button>
+            <a
+              className="navbar-brand page-scroll"
+              href="https://jessie-he.netlify.app"
+            >
+              <img src={jessieLogo} alt="logo" />
+              Jessie He
+            </a>
+          </Box>
+          <Box className="collapse navbar-collapse navbar-main-collapse">
+            <UnorderedList className="nav navbar-nav navbar-right">
+              <ListItem
+                className={currentPage === "top" ? "hidden active" : "hidden"}
+              >
+                <a className="page-scroll" href="#page-top">
+                  {" "}
+                </a>
+              </ListItem>
+              {/* {console.log(scrollAbout)}
                         {console.log(currentPage)} */}
-                        <ListItem className={scrollAbout && currentPage === "about" ? "active" : ""}><a className="page-scroll" href="#about">About</a></ListItem>
-                        <ListItem className={scrollPassion && currentPage === "passion" ? "active" : ""}><a className="page-scroll" href="#passion">Passion</a></ListItem>
-                        <ListItem className={scrollExperience && currentPage === "experience" ? "active" : ""}><a className="page-scroll" href="#experience">Experience</a></ListItem>
-                        <ListItem className={scrollProject && currentPage === "projects" ? "active" : ""}><a className="page-scroll" href="#projects">Projects</a></ListItem>
-                        <ListItem className={scrollContact && currentPage === "contact" ? "active" : ""}><a className="page-scroll" href="#contact">Contact</a></ListItem>
-                    </UnorderedList>
-                </Box>
-            </Box>
-        </nav>
-
-    )
+              <ListItem
+                className={
+                  scrollAbout && currentPage === "about" ? "active" : ""
+                }
+              >
+                <a className="page-scroll" href="#about">
+                  About
+                </a>
+              </ListItem>
+              <ListItem
+                className={
+                  scrollPassion && currentPage === "passion" ? "active" : ""
+                }
+              >
+                <a className="page-scroll" href="#passion">
+                  Passion
+                </a>
+              </ListItem>
+              <ListItem
+                className={
+                  scrollExperience && currentPage === "experience"
+                    ? "active"
+                    : ""
+                }
+              >
+                <a className="page-scroll" href="#experience">
+                  Experience
+                </a>
+              </ListItem>
+              <ListItem
+                className={
+                  scrollProject && currentPage === "projects" ? "active" : ""
+                }
+              >
+                <a className="page-scroll" href="#projects">
+                  Projects
+                </a>
+              </ListItem>
+              <ListItem
+                className={
+                  scrollContact && currentPage === "contact" ? "active" : ""
+                }
+              >
+                <a className="page-scroll" href="#contact">
+                  Contact
+                </a>
+              </ListItem>
+            </UnorderedList>
+          </Box>
+        </Box>
+      </nav>
+    );
 }

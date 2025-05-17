@@ -11,7 +11,7 @@ export default function About() {
                             <h2>A Little Bit About Me</h2>
                             <img src={profile} id="prof-pic" alt="profile" />
                             <p>
-                                Hi! My name is Jessie and I'm a self-taught web developer with a passion for front end development
+                                Hi! My name is Jessie and I'm a self-taught full-stack developer with a passion for front end development
                                 and data. I'm currently a senior at the <a href="https://uci.edu/">University of California, Irvine </a>
                                 pursuing a degree in <a href="https://www.cs.uci.edu/">Computer Science</a> with a specialization in
                                 Information. I aspire to be in a career that will allow me to develop my skills in creating and building
